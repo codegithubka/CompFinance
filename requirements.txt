@@ -4,3 +4,6 @@ skfolio
 pandas
 pandas-datareader
 yfinance
+yahooquery
+statsmodels
+scipy

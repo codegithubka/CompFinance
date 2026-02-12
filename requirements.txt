@@ -7,3 +7,4 @@ yfinance
 yahooquery
 statsmodels
 scipy
+seaborn
